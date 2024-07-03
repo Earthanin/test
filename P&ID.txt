@@ -1,5 +1,4 @@
 valve
-tank
 levelsensor
 valve
 injector
